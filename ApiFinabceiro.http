@@ -1,0 +1,6 @@
+@ApiFinabceiro_HostAddress = http://localhost:5170
+
+GET {{ApiFinabceiro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
